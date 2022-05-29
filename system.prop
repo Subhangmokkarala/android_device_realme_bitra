@@ -29,6 +29,10 @@ persist.fuse_sdcard=true
 persist.vendor.overlay.izat.optin=rro
 sys.qca1530=detect
 
+# IMS
+persist.dbg.volte_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
+
 # Kernel
 ro.kernel.qemu.gles=0
 
